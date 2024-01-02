@@ -10,9 +10,9 @@
         "deadlybot",
         "SpamBots"
     ],
-    "repository": "https://github.com/WCGKING/KINGSPAM",
-    "website": "https://t.me/BRANDED_KHUSHI",
-    "success_url": "https://t.me/BRANDED_WORLD",
+    "repository": "https://github.com/asdzxc12n/Spam-Challenger",
+    "website": "https://t.me/friendsquizess",
+    "success_url": "https://t.me/FRIENDSGROUPALLINDIA",
     "env": {
              "API_ID": {
         "description": "Fill Api ID Take this value from My.telegram.org",
@@ -86,7 +86,7 @@
       },
       "OWNER_ID": {
             "description": "owner Id",
-            "value": "6258877205",
+            "value": "5452800003",
             "required": true
         }
     },
